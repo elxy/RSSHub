@@ -80,6 +80,12 @@ Rated 对象
 
 <Route author="elxy" example="/bitmovin/blog" path="/bitmovin/blog"/>
 
+## BBC News Labs
+
+### News
+
+<Route author="elxy" example="/bbcnewslabs/news" path="/bbcnewslabs/news"/>
+
 ## Codeforces
 
 #### 最新比赛
